@@ -2,6 +2,11 @@
 
 ## REFERÊNCIAS
 - Flow Project Management - https://www.getflow.com/
+- Framer https://framer.com/getstarted/guides/design/
+- Zeplin https://zeplin.io/
+- Proto.io https://proto.io/
+- FlowMapp https://flowmapp.com/
+
 - Mirrored Atomicity - https://uxdesign.cc/mirrored-atomicity-ui-and-front-end-speaking-the-same-language-3ac5c2fe382b
 - The Unicorn Workflow - https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37
 
