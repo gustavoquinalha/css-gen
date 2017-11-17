@@ -5,6 +5,7 @@
 - Framer https://framer.com/getstarted/guides/design/
 - Zeplin https://zeplin.io/
 - Proto.io https://proto.io/
+- Marvel App https://marvelapp.com/
 - FlowMapp https://flowmapp.com/
 
 - Mirrored Atomicity - https://uxdesign.cc/mirrored-atomicity-ui-and-front-end-speaking-the-same-language-3ac5c2fe382b
